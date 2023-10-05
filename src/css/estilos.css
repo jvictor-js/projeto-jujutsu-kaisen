@@ -85,6 +85,7 @@ main .personagem .imagem {
 
 .botoes .botao img {
     border-radius: 50%;
+    max-width: 60px;
 }
 
 .botoes .botao.selecionado {
